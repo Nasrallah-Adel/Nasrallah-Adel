@@ -12,6 +12,16 @@
   
   - 🔭 I'm a software Engineer [@Halan](https://www.halan.com) in Cairo, Egypt.
   - Now I am interested in Golang and how to make the code work faster and do a lot of things in no time 
+  
+  **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+
+<a href="https://github.com/Nasrallah-Adel/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nasrallah-Adel&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/Nasrallah-Adel/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrallah-Adel&layout=compact&theme=radical&hide_border=false" />
+</a>
+  
 <!--
 **Nasrallah-Adel/Nasrallah-Adel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
